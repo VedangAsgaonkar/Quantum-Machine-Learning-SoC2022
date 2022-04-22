@@ -17,3 +17,9 @@ Finally, we will come to the crux of our project; quantum machine learning. The 
 * Practical models in machine learning
 * Introduction to Tensorflow Quantum/ Pennylane
 * Implementation of a QML paper
+
+## Review mechanism
+Every week we will have some code/report that the mentees need to turn in. This will be specified on a weekly basis. Mentees need to maintain their own github repos for the project, with folders for each week. All the code and reports will be put into these folders.
+
+## Feedback
+Feedback for the project will be throught the Whatsapp group
