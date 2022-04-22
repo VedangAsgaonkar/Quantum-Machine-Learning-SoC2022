@@ -1,5 +1,5 @@
 # Quantum-Machine-Learning-SoC2022
-Repository for "An Introduction to QC, ML and QML" as a part of WnCC SoC '22. Mentors: (Siddhant Midha)[https://github.com/siddhant-midha] and (Vedang Asgaonkar)[github.com/VedangAsgaonkar]
+Repository for "An Introduction to QC, ML and QML" as a part of WnCC SoC '22. Mentors: [Siddhant Midha](https://github.com/siddhant-midha) and [Vedang Asgaonkar](github.com/VedangAsgaonkar)
 
 ## Description
 The project will begin with an introduction to quantum computing. The main reference book for this part will be Quantum Computing and Quantum Information by Nielsen and Chuang. We will also learn to create quantum circuits using IBM's qiskit package embedded in python. This will be followed by implementation
