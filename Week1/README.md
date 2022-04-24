@@ -12,3 +12,7 @@ Some _optional_ reading material, for better understanding:
 - John Preskill's introductary notes: http://theory.caltech.edu/~preskill/ph229/notes/chap1.pdf
 - An online essay, by Andy Matuschak and Michael Nielsen: https://quantum.country/qcvc
 - Introductary notes from Berkeley's QIC course: https://inst.eecs.berkeley.edu/~cs191/fa10/notes/chap1&2.pdf
+- The Holevo-Helstrom Theorem on Distinguishing quantums states[¹]: https://www.cs.cmu.edu/~odonnell/quantum15/lecture17.pdf
+
+
+[¹] Can be done later if you have covered density matrices (which is not a part of the compulsary material).
