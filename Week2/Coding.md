@@ -17,7 +17,7 @@ These rely on fundamental gates for creation. There are several other techniques
 ## Basic operations
 Perform the following operations using basic gates in Qiskit:
 * Swapping Qubits: Take two qubits and swap their states. Refer to QCQI for circuit
-* Increment: Suppose we have three qubits which together represent a 3-bit number. So the state |011> represents the number 3. Create a quantum circuit to add 1 to this number. So the circuit should leave the qubits in the above example in the state |100>. This is basically incrementation mod 8. Hint: See what adding one does to the qubit in each decimal place. How will you accomodate carry from one's place to ten's place etc?
+* Increment: Suppose we have three qubits which together represent a 3-bit number. So the state |011> represents the number 3. Create a quantum circuit to add 1 to this number. So the circuit should leave the qubits in the above example in the state |100>. This is basically incrementation mod 8. Hint: See what adding one does to each bit. How will you accomodate for carry from one bit to the next?
 
 If you are very much into these, try the following optional exercises: 
 * Addition mod 8: Add two 3 bit numbers mod 8
