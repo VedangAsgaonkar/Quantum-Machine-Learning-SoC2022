@@ -1,5 +1,5 @@
 # Setup
-We shall be using IBM's Qiskit programming language for the coding part of QC. You can set it up using either pip or conda using the instructions in their [official guide](https://qiskit.org/textbook/ch-prerequisites/setting-the-environment.html). The guide can also act as a resource for exploring various algorithms. We encourage you to code these algorithms on your own before looking at the implementation in the guide. It will also server as your tutorial for the Qiskit syntax. 
+We shall be using IBM's Qiskit programming language for the coding part of QC. You can set it up using either pip or conda using the instructions in their [official guide](https://qiskit.org/textbook/ch-prerequisites/setting-the-environment.html). The guide can also act as a resource for exploring various algorithms. We encourage you to code these algorithms on your own before looking at the implementation in the guide. It will also serve as your tutorial for the Qiskit syntax. 
 
 # Algorithms
 We expect you to code the following algorithms and push the codes to the Week 2 folder in your github repositories. 
