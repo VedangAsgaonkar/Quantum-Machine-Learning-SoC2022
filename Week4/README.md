@@ -1,0 +1,2 @@
+# Machine Learning
+We will be going through the basics of machine learning in this module. Please find the PDF file which has links to some resources to study the theory of ML. We shall implement the algorithms from the theory using sklearn and Tensorflow. The coding tasks and resources are mentioned in [this](./coding.md) file.
