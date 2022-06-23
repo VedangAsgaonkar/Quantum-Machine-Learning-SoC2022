@@ -11,7 +11,7 @@ Finally, we will come to the crux of our project; quantum machine learning. The 
 
 ## Checkpoints
 - [x] Introduction to QC and linear algebra
-- [x] Quantum Circuits. Introduction to Qiskit ::
+- [x] Quantum Circuits. Introduction to Qiskit
 - [x] QFT and Grover's search. Implementation in Qiskit
 - [x] Fundamentals of machine learning
 - [x] Practical models in machine learning
