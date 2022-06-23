@@ -30,4 +30,4 @@ Feedback for the project will be through the Whatsapp group
 
 
 
-[^1]: The bonus is getting to learn something new.
+[^1]: Bonus points will be awarded in the final evaluation and you will get to learn something new.
