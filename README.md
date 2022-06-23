@@ -10,11 +10,11 @@ Subsequently, we will shift our focus to machine learning 🧠 . Depending upon 
 Finally, we will come to the crux of our project; quantum machine learning. The mentee will get to choose one or more papers on QML from a fixed collection and implement them. To that end, we will use QML libraries like Tensorflow Quantum or PennyLane.
 
 ## Checkpoints
-* Introduction to QC and linear algebra
-* Quantum Circuits. Introduction to Qiskit
-* QFT and Grover's search. Implementation in Qiskit
-* Fundamentals of machine learning
-* Practical models in machine learning
+- [x] Introduction to QC and linear algebra
+- [x] Quantum Circuits. Introduction to Qiskit ::
+- [x] QFT and Grover's search. Implementation in Qiskit
+- [x] Fundamentals of machine learning
+- [x] Practical models in machine learning
 * Introduction to Tensorflow Quantum/ Pennylane
 * Implementation of a QML paper
 
