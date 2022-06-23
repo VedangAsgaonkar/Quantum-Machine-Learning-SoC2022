@@ -21,5 +21,13 @@ Finally, we will come to the crux of our project; quantum machine learning. The 
 ## Review mechanism
 Every week we will have some code/report that the mentees need to turn in. This will be specified on a weekly basis. Mentees need to maintain their own github repos for the project, with folders for each week. All the code and reports will be put into these folders.
 
+## Evaluation
+There will be two evaluations, one for the QC part and one for the QML part. 
+* QC Evaluation: There are four questions. Attempting any two is compulsary. Attempt any three to get a bonus. Attempt any four to get a bigger bonus. [^1]
+* QML Evaluation: TBA.
 ## Feedback
 Feedback for the project will be through the Whatsapp group
+
+
+
+[^1]: The bonus is getting to learn something new.
