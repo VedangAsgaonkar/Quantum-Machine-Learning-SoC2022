@@ -15,7 +15,7 @@ Finally, we will come to the crux of our project; quantum machine learning. The 
 - [x] QFT and Grover's search. Implementation in Qiskit
 - [x] Fundamentals of machine learning
 - [x] Practical models in machine learning
-- [ ] Introduction to Tensorflow Quantum/ Pennylane
+- [x] Introduction to Tensorflow Quantum/ Pennylane
 - [ ] Implementation of a QML paper
 
 ## Review mechanism
