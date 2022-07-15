@@ -24,7 +24,7 @@ Every week we will have some code/report that the mentees need to turn in. This 
 ## Evaluation
 There will be two evaluations, one for the QC part and one for the QML part. 
 * QC Evaluation: There are four questions. Attempting any two is compulsary. Attempt any three to get a bonus. Attempt any four to get a bigger bonus. [^1]
-* QML Evaluation: TBA.
+* QML Evaluation: There are two questions. You are required to attempt both. The second question is based on the paper you choose to implement.
 ## Feedback
 Feedback for the project will be through the Whatsapp group
 
