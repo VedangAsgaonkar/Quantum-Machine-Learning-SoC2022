@@ -16,7 +16,7 @@ Finally, we will come to the crux of our project; quantum machine learning. The 
 - [x] Fundamentals of machine learning
 - [x] Practical models in machine learning
 - [x] Introduction to Tensorflow Quantum/ Pennylane
-- [ ] Implementation of a QML paper
+- [x] Implementation of a QML paper
 
 ## Review mechanism
 Every week we will have some code/report that the mentees need to turn in. This will be specified on a weekly basis. Mentees need to maintain their own github repos for the project, with folders for each week. All the code and reports will be put into these folders.
@@ -28,6 +28,16 @@ There will be two evaluations, one for the QC part and one for the QML part.
 ## Feedback
 Feedback for the project will be through the Whatsapp group
 
+## Final Repositories
+The project was completed successfully by several mentees. Here are the github repositories for their implementations:
+- https://github.com/Woolverine563/SoC-2022
+- https://github.com/A9B8C7D6/SoC2022-QML-Anand
+- https://github.com/AneeshKamat4/QC-ML-SoC-2022
+- https://github.com/AtharvaTambat/WnCC-SoC-2022-QML
+- https://github.com/reverseredoc/SoC-2022
+- https://github.com/mathismusic/SoC-2022-QML
+- https://github.com/ronil1508/SOC-2022_QML
+- https://github.com/Rupanshparth/SoC-2022_QML
 
 
 [^1]: Bonus points will be awarded in the final evaluation and you will get to learn something new.
