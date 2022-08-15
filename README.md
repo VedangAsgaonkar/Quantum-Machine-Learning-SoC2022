@@ -29,7 +29,7 @@ There will be two evaluations, one for the QC part and one for the QML part.
 Feedback for the project will be through the Whatsapp group
 
 ## Final Repositories
-The project was completed successfully by several mentees. Here are the github repositories for their implementations:
+Here are some successful implementations of the project:
 - https://github.com/Woolverine563/SoC-2022
 - https://github.com/A9B8C7D6/SoC2022-QML-Anand
 - https://github.com/AneeshKamat4/QC-ML-SoC-2022
